@@ -1,0 +1,148 @@
+{
+  "basics": {
+    "name": "Matthew Cygal",
+    "email": "matcygal@gmail.com",
+    "phone": "+44 74497 435 49",
+    "url": "https://thecload.com",
+          "summary": "Experienced developer and tech lead with a sales and key account management background. Strong in communication, relationship building, and achieving results. Thrives in fast-paced environments and fosters a collaborative culture. Ideal candidate for driving success in developer management and tech leadership roles.",
+    "profiles": [{
+      "network": "Youtube", 
+      "username": "AiGNiTE",
+      "url": "https://www.youtube.com/@aignite"
+    }]
+  },
+  "work": [{
+      "name": "Spot Ship",
+      "position": "Python/DevOps Lead",
+      "startDate": "01-03-2021",
+    "endDate": "Present",
+    "highlights": [
+        "Dockerized applications, revolutionizing deployment processes and improving efficiency by leveraging containerization technology. Streamlined deployment pipelines, resulting in enhanced scalability, reliability, and security of applications. Implemented best practices for Docker, optimizing deployment time and minimizing downtime. Proactively identified and resolved containerization issues, ensuring smooth operations and high availability. Provided technical expertise to drive knowledge sharing and adoption across the organization, driving innovation and modernization efforts.",
+        "Successfully split MVP into smaller services and introduced microservices architecture, revolutionizing the development and scalability of applications. Implemented best practices for microservices, optimizing service interactions, improving maintainability, and enhancing fault tolerance. Led cross-functional teams in the adoption of microservices, driving innovation and modernization efforts. Proactively identified and resolved issues related to microservices, ensuring smooth operations and high availability. Provided technical expertise to facilitate knowledge sharing and adoption of microservices across the organization, resulting in improved application development practices and increased efficiency.",
+        "Developed a custom service that calculates sea distance using Eurostat data, leveraging data-driven methodologies to provide accurate and reliable results. Utilized data analysis, geospatial processing, and statistical techniques to extract and process Eurostat data for sea distance calculations. Successfully implemented and maintained the service, contributing to improved accuracy in distance calculations and supporting decision-making processes. Demonstrated expertise in data analysis, geospatial processing, and software development, showcasing innovative thinking and problem-solving skills.",
+        "Developed a custom service to efficiently process tabular data from emails in PDF and JPG formats, extracting and inserting the data into a database. Utilized data extraction, parsing, and database integration techniques to automate the extraction and insertion of data from email attachments into the database. Streamlined data processing workflows, reducing manual efforts and improving data accuracy. Showcased expertise in data extraction, parsing, and database integration, resulting in improved data management and operational efficiency. Contributed to the development of innovative solutions for data handling and automation, driving process optimization and productivity gains.",
+        "Created and integrated a REST API with a modern React frontend, optimizing data communication and enhancing user experience. Implemented industry best practices for API design, security, and performance, showcasing expertise in frontend-backend coordination and collaboration. Contributed to technology stack modernization and improved system responsiveness through successful API integration.",
+        "Created microservices for consuming, processing, and distributing AIS satellite data, improving scalability, maintainability, and data handling efficiency. Demonstrated expertise in microservices development, data processing, and distributed systems, driving innovation and operational efficiency in handling AIS satellite data.",
+        "Created data entry interface for vessel position reports and cargo data, optimizing data input processes and improving data accuracy. Demonstrated expertise in frontend development, database integration, and user experience design, resulting in streamlined workflows and enhanced data management practices.",
+        "Implemented Jira and Slack tools to enhance Agile and Scrum practices, improving team productivity and project management. Demonstrated expertise in project management and Agile methodologies, resulting in streamlined workflows and efficient team coordination. Contributed to the modernization of team processes and communication, driving improved project execution.",
+        "Headhunted and recruited 2 skilled developers, strengthening team capabilities and contributing to successful project execution."
+    ]
+  },
+      {
+          "name": "UK Car Park Managment Limited",
+          "position": "Python/DevOps Lead",
+          "startDate": "15-07-2019",
+          "endDate": "01-03-2021",
+          "highlights": [
+              "Modernized AWS infrastructure by migrating to CloudFormation, Lambda, S3, and SQS. Rewrote functionality with Python Lambda functions, improving scalability and cost-efficiency. Demonstrated expertise in AWS architecture and automation, driving cost optimization and operational efficiency.",
+              "Introduced Agile methodologies and Jira, enhancing task understanding and workflow for younger team members, resulting in improved project outcomes and team productivity.",
+              "Contributed to on-premises to AWS migrations for large legacy projects, showcasing expertise in cloud migration and AWS technologies, resulting in improved scalability, reliability, and cost-efficiency.",
+              "Led junior Python developers in building CRM and Helpdesk apps using Python Flask and SQL-Alchemy, fostering their independence. Developed REST API for Permit system from scratch with Python Flask-RESTX, SQL-Alchemy, and pytest, showcasing strong technical skills and leadership abilities.",
+              "Created and deployed a Django-based service to automate dispensation code issuance, replacing a manual process involving multiple spreadsheets. Streamlined operations, improving efficiency and accuracy in dispensation code management.",
+              "Created Reporting app using Django and Redis for payment kiosk units, providing real-time activity monitoring and generating interactive reports with Bokeh graphs. Streamlined sales tracking and site maintenance for clients, showcasing expertise in Django, Redis, data processing, and data visualization.",
+              "Created ANPR dashboard with Python Flask, Pandas, and Bokeh for data visualization. Enabled data-driven decision-making, improving client understanding and business optimization.",
+              "Implemented camera module for React Native Warden app with text recognition, speeding up PCN issuing by eliminating manual VRM entry. Improved productivity and user experience with streamlined PCN issuance process.",
+              "Redesigned ANPR infrastructure using Django, rewriting ANPR matching and issuing scripts in Python with Lambda functions for improved speed, security, and efficiency. Streamlined ANPR system for optimal performance and enhanced functionality."
+          ]
+      },
+      {
+          "name": "Dropship Spy",
+          "position": "Lead Developer",
+          "startDate": "10-02-2019",
+          "endDate": "15-07-2019",
+          "highlights": [
+              "Improved DevOps by implementing automated deployments with Forge, successfully deploying Python applications to Heroku and AWS. Streamlined deployment processes for increased efficiency and reduced downtime. Leveraged expertise in DevOps practices to optimize deployment workflows and enhance overall development productivity.",
+              "Built Django service for handling and processing large data sets from scratch, utilizing advanced data ingestion and processing techniques.",
+              "Led the successful migration of a legacy monolithic application from C# and Ruby to Python Django microservices architecture, resulting in improved scalability, maintainability, and performance of the system.",
+              "Developed a web crawler utilizing Scrappy, Beautifulsoup4, and Goutte, extracting data from websites and automating data retrieval tasks, resulting in streamlined data collection and improved data accuracy for the organization.",
+              "Designed and implemented a PHP REST API that efficiently processed data from multiple sources, including external APIs and databases, and seamlessly delivered it to the frontend, enabling smooth data integration and enhanced user experience.",
+              "Developed and deployed a robust Python/Django REST API that facilitated seamless data communication between various sources, including external APIs and databases, with efficient handling of data processing, transformation, and delivery, ensuring smooth data integration and interoperability."
+          ]
+      },
+      {
+          "name": "D3R",
+          "position": "Full Stack Developer",
+          "startDate": "01-02-2017",
+          "endDate": "10-02-2019",
+          "highlights": [
+              "Revamped the front-end of Mundy Cruising website, incorporating modern design elements and enhanced user experience. Implemented a feature to dynamically pull brochures from a third-party API, improving the website's functionality and providing users with up-to-date information on available travel options.",
+              "Enhanced Elasticsearch filters on Mundy Cruising, improving search functionality and providing users with more accurate and relevant results. Implemented updates to optimize the filtering process, resulting in improved performance and faster response times for search queries.",
+              "Developed Python-based Lambda Functions for serverless architectures, leveraging AWS Lambda for event-driven, scalable, and cost-effective computing solutions.",
+              "Revitalized the front-end of the Made by Oomph website, enhancing user experience through modern design principles, responsive layouts, and optimized performance, resulting in improved engagement and increased website traffic.",
+              "Implemented new functionality to Twickenham website by adding customizable sections, allowing users to easily personalize their experience and increasing user engagement on the site.",
+              "Successfully designed and developed an event recruitment portal for Twickenham, serving as the front-end and back-end developer. The portal streamlined the recruitment process, improving efficiency and providing an enhanced user experience for both event organizers and candidates.",
+              "Created reusable components for the West Dean College website, utilizing modern web technologies and best practices. These components contributed to a more modular and maintainable codebase, improving development efficiency and allowing for easy updates and enhancements to the website.",
+              "Updated the product display page and product listing front-end on the Aspinal of London website, enhancing the user experience and improving the visual presentation of products. Implemented responsive design and optimized performance for various devices, ensuring a seamless browsing experience for customers. Collaborated with cross-functional teams to deliver high-quality front-end solutions that aligned with the brand's aesthetics and business requirements.",
+              "Developed GDPR solutions and conducted data audits to ensure compliance. Implemented data privacy policies, procedures, and tools for consent management and data subject rights."
+          ]
+      },
+      {
+          "name": "Freelance Web Developer",
+          "position": "Python/PHP",
+          "startDate": "01-03-2014",
+          "endDate": "01-05-2017",
+          "highlights": [
+              "I successfully created a robust and efficient Django 1.6 backend for a tourist complex. This comprehensive solution included a Customer Relationship Management (CRM) system and an accommodation app, providing seamless management of bookings, reservations, and customer interactions. Leveraging my expertise in Django, I implemented essential features and functionalities to ensure smooth operations, data accuracy, and user-friendly interactions. This project played a pivotal role in enhancing the efficiency and effectiveness of the tourist complex's operations, contributing to its overall success in delivering exceptional customer experiences.",
+              "As a skilled web developer, I successfully created multiple company websites and public sector websites using PHP and JavaScript. Leveraging my expertise in these technologies, I designed and developed visually appealing and highly functional websites that met the specific needs and requirements of each project. From front-end design to back-end development, I played a key role in creating professional websites that effectively conveyed the brand message, enhanced user experience, and achieved the desired outcomes for the respective organizations."
+          ]
+      },
+      {
+          "name": "Key Account Manager",
+          "position": "Neonet",
+          "startDate": "01-03-2012",
+          "endDate": "01-05-2014",
+          "highlights": [
+              "As a Key Account Manager in the consumer electronics industry, I was responsible for maintaining and expanding relationships with strategic accounts. My primary focus was on creating long-term partnerships that drove revenue growth and profitability for both the company and the client.",
+              "My day-to-day responsibilities included identifying new business opportunities, developing and executing sales strategies, and negotiating contracts with key accounts. I worked closely with cross-functional teams such as product development, marketing, and customer service to ensure that our clients' needs were being met and that our products were meeting their expectations.",
+              "I also provided regular reporting and analysis on sales performance and market trends to the senior management team. This helped to inform product development and marketing strategies, and enabled us to stay ahead of our competitors"
+          ]
+      },
+      {
+          "name": "Unilever",
+          "position": "Sales Representative",
+          "startDate": "01-11-2009",
+          "endDate": "01-03-2012",
+          "highlights": [
+              "As a Sales Representative for household chemicals at Unilever, my primary responsibility was to sell and promote the company's household cleaning and personal care products to retailers and distributors. I managed a portfolio of accounts in               a designated geographic area, and worked to establish and maintain strong relationships with key stakeholders.",
+              "I was responsible for conducting market research to identify new business opportunities, analyzing sales data to identify trends and opportunities for growth, and developing and executing sales strategies to achieve and exceed sales targets. I worked closely with my team members to ensure that we were delivering the best possible customer experience, and that our products were meeting the needs and expectations of our customers.",
+              "In addition to sales, I was responsible for managing merchandising and promotional activities at the retail level. This included setting up and maintaining displays, conducting product demonstrations, and coordinating promotional events."
+          ]
+      }
+  ],
+  "education": [{
+    "institution": "University of Wroclaw",
+      "area": "Communication and Brand Identity Design",
+      "startDate": "30-09-2009",
+      "endDate": "01-06-2011"
+  }],
+  "certificates": [{
+      "name": "Deep Learning",
+    "issuer": "Coursera"
+  }],
+  "skills": [{
+    "name": "programming",
+    "keywords": [
+      "Python",
+      "AWS",
+      "JavaScript",
+        "Django/Flask/FastApi",
+        "Docker/K8s",
+        "React"
+    ]
+  }],
+  "interests": [{
+    "name": "Music",
+    "keywords": [
+      "Guitar",
+      "Music Production"
+    ]
+  },
+      {
+          "name": "Ai",
+          "keywords": [
+              "Modeling",
+              "Ai News"
+          ]
+      }
+  ]
+}
